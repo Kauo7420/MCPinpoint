@@ -984,7 +984,7 @@ select.filter-select:focus {
 
 /* 页脚 */
 .footer {
-    background-color: var(--primary);
+    background-color: -var(--bg);
     padding: 20px;
     text-align: center;
     border-top: var(--pixel-border);
@@ -992,7 +992,7 @@ select.filter-select:focus {
 }
 
 .copyright {
-    color: white;
+    color: -var(--text);
     font-size: 0.9rem;
 }
 
