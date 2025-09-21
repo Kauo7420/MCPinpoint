@@ -1117,8 +1117,3 @@ select.filter-select:focus {
     border-bottom: 4px solid var(--primary);
     border-right: 4px solid var(--primary);
 }
-
-.statistics {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-}
