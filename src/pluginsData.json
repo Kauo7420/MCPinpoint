@@ -457,5 +457,22 @@
         "serverCores": ["Bukkit", "Spigot", "Paper"],
         "paymentType": "free",
         "link": "https://www.spigotmc.org/resources/bedrockplayersupport.115450/"
+    },
+    {
+        "id": 28,
+        "name": "BlueMap",
+        "author": "BlueColored",
+        "description": "一款地图映射工具，能够将你的 Minecraft 世界生成 3D 模型，并在网页查看器中直观展示。",
+        "version": "1.13-1.21",
+        "tags": ["管理", "多人", "工具"],
+        "category": ["admin", "world"],
+        "downloads": 30180,
+        "rating": 4.8,
+        "reviews": 223,
+        "releaseDate": "2019-11-16",
+        "dependencies": [],
+        "serverCores": ["Bukkit", "Spigot", "Paper", "Forge", "NeoForge", "Fabric"],
+        "paymentType": "free",
+        "link": "https://hangar.papermc.io/Blue/BlueMap"
     }
 ]
