@@ -474,5 +474,22 @@
         "serverCores": ["Bukkit", "Spigot", "Paper", "Forge", "NeoForge", "Fabric"],
         "paymentType": "free",
         "link": "https://hangar.papermc.io/Blue/BlueMap"
+    },
+    {
+        "id": 30,
+        "name": "AdvancedSeasons",
+        "author": "GC.",
+        "description": "一款高颜值且功能丰富的季节插件，让你在MC中体验动态的季节变化，这是目前最沉浸式的季节插件。",
+        "version": "1.20-1.21",
+        "tags": ["管理", "多人", "工具"],
+        "category": ["decoration", "world", "gameplay"],
+        "downloads": 3983,
+        "rating": 4.9,
+        "reviews": 30,
+        "releaseDate": "2023-12-28",
+        "dependencies": ["ProtocolLib"],
+        "serverCores": ["Bukkit", "Spigot", "Paper"],
+        "paymentType": "paid",
+        "link": "https://advancedplugins.net/item/AdvancedSeasons.185"
     }
 ]
