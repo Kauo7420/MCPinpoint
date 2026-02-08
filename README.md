@@ -85,7 +85,7 @@ cd Kauo7420
 
 ![Repobeats](https://repobeats.axiom.co/api/embed/f16b160ea419610190dff30d327b56ad37f2e86e.svg "Repobeats analytics image")
 
-![Star 历史](https://starchart.cc/Kauo7420/Kauo7420.svg?variant=adaptive)](https://starchart.cc/Kauo7420/Kauo7420)
+[![Star 历史](https://starchart.cc/Kauo7420/Kauo7420.svg?variant=adaptive)](https://starchart.cc/Kauo7420/Kauo7420)
 
 ---
 
