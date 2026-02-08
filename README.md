@@ -12,8 +12,6 @@
 
 [🌐 立即访问官网](https://mcplugin.netlify.app/) | [📖 English Version](README_en.md) | [📺 视频演示](https://www.bilibili.com/video/BV1wZvPzXENR)
 
-![Repobeats](https://repobeats.axiom.co/api/embed/f16b160ea419610190dff30d327b56ad37f2e86e.svg "Repobeats analytics image")
-
 </div>
 
 ---
@@ -84,6 +82,10 @@ cd Kauo7420
 * **技术支持**: 加入 [QQ 交流群 (684957856)](https://qm.qq.com/q/Ghue9KRxi8)
 * **关注动态**: 访问 [Bilibili 主页](https://space.bilibili.com/375148183) 查看更多教程
 * **统计分析**:
+
+![Repobeats](https://repobeats.axiom.co/api/embed/f16b160ea419610190dff30d327b56ad37f2e86e.svg "Repobeats analytics image")
+
+![Star 历史](https://starchart.cc/Kauo7420/Kauo7420.svg?variant=adaptive)](https://starchart.cc/Kauo7420/Kauo7420)
 
 ---
 
