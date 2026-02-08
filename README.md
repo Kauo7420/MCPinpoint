@@ -12,6 +12,8 @@
 
 [🌐 立即访问官网](https://mcplugin.netlify.app/) | [📖 English Version](README_en.md) | [📺 视频演示](https://www.bilibili.com/video/BV1wZvPzXENR)
 
+![Repobeats](https://repobeats.axiom.co/api/embed/f16b160ea419610190dff30d327b56ad37f2e86e.svg "Repobeats analytics image")
+
 </div>
 
 ---
