@@ -10,7 +10,7 @@
 [![Visitor](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKauo7420%2FKauo7420&label=Visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/)
 [![QQ Group](https://img.shields.io/badge/QQ%E7%BE%A4-684957856-0099FF?style=flat-square&logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/Ghue9KRxi8)
 
-[🌐 立即访问官网](https://mcplugin.netlify.app/) | [📖 English Version](README_en.md) | [📺 视频演示](https://www.bilibili.com/video/BV1wZvPzXENR)
+[🌐 立即访问官网](https://mcplugin.netlify.app/) | [📺 视频演示](https://www.bilibili.com/video/BV1wZvPzXENR) | [📖 English Version](README_en.md) | [📖 Deutsche Version](README_de.md)
 
 </div>
 
