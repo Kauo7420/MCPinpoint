@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+> [!CAUTION]
 > **Maintenance Notice:** This project has been officially **discontinued and is no longer maintained**. The website, APIs, and data sources may become unavailable or outdated at any time. Please use it for reference and learning purposes only.
 
 <div align="center">
@@ -98,7 +98,7 @@ Special thanks to the contributors who supported this project:
 
 ## 📜 Copyright & Legal Notice
 
-> [!CAUTION]
+> [!IMPORTANT]
 > **Legal Disclaimer:** All plugin information on this website is collected from public platforms such as SpigotMC and GitHub. Copyright belongs to the original authors. This project is intended **for learning and communication only**. Commercial usage or infringement is strictly prohibited. If any infringement occurs, please contact us for removal.
 
 ---
