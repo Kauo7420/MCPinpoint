@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **重要提示：** 本项目已正式 **停止维护**，不再进行功能更新与问题修复，相关网站、API 及数据源可能随时失效或过期，仅供学习与参考使用。
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Minecraft-Plugin--Nav-green?style=for-the-badge&logo=minecraft" alt="Logo" />
@@ -91,7 +94,7 @@ cd Kauo7420
 
 ## 📜 版权声明
 
-> [!CAUTION]
+> [!IMPORTANT]
 > **法律声明**：本网站所有插件资源信息均抓取自 SpigotMC, GitHub 等公开互联网平台，资源版权归原作者所有。本项目仅供学习交流，严禁用于任何非法或商业侵权行为。如有侵权，请联系我们删除。
 
 ---
